@@ -1,0 +1,88 @@
+
+h2 {
+  color: #AD0000;
+  font-size: 40px ;
+   font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+h1 {
+  font-size : 80px;
+  text-align: center;
+  color: white;
+  font-family: 'Indie Flower', cursive;
+}
+
+.img-circle { display: block;
+    margin-left: auto;
+    border-radius: 50%;
+    margin-right: auto;
+  }
+
+p { text-align: center;
+    color : white;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+a {
+  display: block;
+  text-align: center;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+body {  background-color: grey ;
+        background-image: url('https://image.noelshack.com/fichiers/2019/19/3/1557324221-1557323785-polish-convertimage.jpg');
+}
+
+.card-black {
+  background: black;
+  padding: 1px;
+  border: 10px solid lightgrey;
+  margin: 50px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 25px;
+
+}
+.card-section {
+  background: black;
+   padding: 100px;
+  border: 10px solid lightgrey;
+  margin: 100px;
+  width: 600px;
+  box-shadow: 10px 13px 12px #AD0000;
+  margin-left: auto;
+
+}
+.card-section1 {
+  background: black;
+   padding: 100px;
+  border: 10px solid lightgrey;
+  margin: 100px;
+  width: 600px;
+  box-shadow: 10px 13px 12px #AD0000;
+  margin-right: : auto;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline;
+  padding: 10px;
+}
+.list-inline i {
+  font-size: 50px;
+  color: rgb(230, 230, 230);
+}
+.list-inline i:hover {
+  color: black;
+}
+
+.not-round { display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
